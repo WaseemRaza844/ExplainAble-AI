@@ -1,0 +1,9 @@
+This code is about performing the SHAP analysis for data driven propagation modeling data, given in 
+prop_mod_samp_data.csv. 
+
+It requires to instal pycaret library, and Shap library in conda evironment. 
+
+Both .py and .ipynb files are good for running, given the correct data path is given, and there is no issue with packages.  
+Set the fig_save variable True if you want to save the generated figures. 
+
+For any concerns, contact waseemraza844@gmail.com, waseem@ou.edu
